@@ -1,2 +1,2 @@
-mu name is 
-print ("hello word")
+#!/bin/bash
+echo "hello"
